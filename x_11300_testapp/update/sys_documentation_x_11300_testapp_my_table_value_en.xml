@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="value" label="Value" language="en" table="x_11300_testapp_my_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <help/>
+            <hint/>
+            <label>Value</label>
+            <language>en</language>
+            <name>x_11300_testapp_my_table</name>
+            <plural>Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-03 11:48:30</sys_created_on>
+            <sys_id>b8886dd9db351010a4ce28df4b96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Value</sys_name>
+            <sys_package display_value="TestApp" source="x_11300_testapp">d24865d9db351010a4ce28df4b96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApp">d24865d9db351010a4ce28df4b96192f</sys_scope>
+            <sys_update_name>sys_documentation_x_11300_testapp_my_table_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-03 11:48:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
